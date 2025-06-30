@@ -21,4 +21,4 @@ RMBG_API = os.getenv("RMBG_API", "tqX9ye8ySBucCZDvpHL4fk8c")
 
 MONGO_URL = os.getenv("MONGO_URL", "mongodb+srv://SanzXd:sanzxd@cluster0.zkxf6n2.mongodb.net/SanzXd?retryWrites=true&w=majority&appName=Cluster0")
 
-LOGS_MAKER_UBOT = int(os.getenv("LOGS_MAKER_UBOT", "-1002312835928"))
+LOGS_MAKER_UBOT = int(os.getenv("LOGS_MAKER_UBOT", "-1002799943892"))
